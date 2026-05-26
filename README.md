@@ -7,7 +7,7 @@ No external dependencies — just a POSIX terminal.
 
 - **Procedural dungeon generation** — every run is different
 - **Turn-based combat** with crits, misses, and armor reduction
-- **8-directional movement** (hjkl vi-keys or numpad)
+- **8-directional movement** (hjkl vi-keys or numpad) 
 - **Inventory system** — weapons, armor, potions, scrolls, gold
 - **Monster AI** — chase, wander, ranged, coward behaviours
 - **Field of view** — shadow-casting, fog of war

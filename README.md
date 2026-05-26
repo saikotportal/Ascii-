@@ -23,7 +23,7 @@ No external dependencies — just a POSIX terminal.
 make
 ./dungeon
 ```
-
+  
 ## Controls
 
 | Key          | Action              |

@@ -3,6 +3,7 @@
 A terminal-based ASCII dungeon crawler written in modern C++17.
 No external dependencies — just a POSIX terminal.
 
+ 
 ## Features
 
 - **Procedural dungeon generation** — every run is different

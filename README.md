@@ -18,7 +18,7 @@ No external dependencies — just a POSIX terminal.
 - **Full ANSI color** rendering
 
 ## Build
-
+ 
 ```bash
 # Requires g++ with C++17 support (Linux/macOS)
 make

@@ -22,7 +22,7 @@ No external dependencies — just a POSIX terminal.
 ```bash
 # Requires g++ with C++17 support (Linux/macOS)
 make
-./dungeon
+./dungeon 
 ```
   
 ## Controls

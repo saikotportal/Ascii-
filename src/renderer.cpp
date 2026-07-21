@@ -4,6 +4,7 @@
 #include <sstream>
 #include <algorithm>
 #include <cstring>
+#include <map>
 
 // ─── helpers ──────────────────────────────────────────────────────────────────
 void Renderer::printAt(int row, int col, const std::string& text) const {

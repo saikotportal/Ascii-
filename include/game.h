@@ -8,6 +8,7 @@
 #include <deque>
 #include <string>
 #include <random>
+#include <memory>
 
 enum class GameState { MENU, PLAYING, INVENTORY, DEAD, WIN };
 

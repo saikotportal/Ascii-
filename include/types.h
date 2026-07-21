@@ -24,6 +24,7 @@ struct Tile {
     bool     explored = false;
     char     glyph    = '#';
     bool     passable = false;
+    bool     transparent = false;
     bool     hasItem  = false;
 };
 
@@ -51,6 +52,7 @@ struct Item {
     int         atkBonus   = 0;
     int         defBonus   = 0;
     int         hpRestore  = 0;
+    int         manaRestore= 0;
     int         qty        = 1;
     bool        equipped   = false;
 };

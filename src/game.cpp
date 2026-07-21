@@ -5,6 +5,18 @@
 #include <sstream>
 #include <cmath>
 
+struct MonsterDef {
+    std::string name;
+    char glyph;
+    int hp;
+    int atk;
+    int def;
+    int speed;
+    int xpDrop;
+    int goldDrop;
+    AIType ai;
+};
+
 // ─── Monster templates ────────────────────────────────────────────────────────
 static std::vector<MonsterDef> MONSTER_DEFS = {
     {"Rat",         'r',  8,  3, 0,  10,  10,  2, AIType::WANDER},

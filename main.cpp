@@ -1,4 +1,5 @@
 #include "include/game.h"
+#include "include/color.h"
 #include <iostream>
 #include <csignal>
 

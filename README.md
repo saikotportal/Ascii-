@@ -67,7 +67,7 @@ DungeonRPG/
 │   ├── combat.h          — Combat resolution
 │   ├── renderer.h        — All rendering logic
 │   └── game.h            — Main game loop / state machine
-└── src/
+└── src/ 
     ├── terminal.cpp      — Raw terminal I/O (POSIX termios)
     ├── dungeon.cpp       — BSP room generation + FOV
     ├── player.cpp        — Player actions + serialization
